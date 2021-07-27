@@ -1,1 +1,0 @@
-Pybo_Django
